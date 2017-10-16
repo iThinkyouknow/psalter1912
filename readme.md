@@ -4,8 +4,8 @@ This app allows you to use the Psalter on your iOS device.
 
 Comes with The Psalter, The Three Forms of Unity, Ecumenical Creeds, Church Order, Minor Creeds, Bible, etc.
 
-## For iPhones, iPod Touch, and iPads
-## from iOS 6.1 onwards
-## Objective-C
+### For iPhones, iPod Touch, and iPads
+### from iOS 6.1 onwards
+### Objective-C
 
-### The first app that I made
+This is the first app that I made.
